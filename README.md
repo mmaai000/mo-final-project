@@ -66,6 +66,24 @@
 #### 9. DIY Fashion
    - How to tailor your clothes
    - Customizing your wardrobe
+Web Design Basics:
+- Layout: Organizing content in a clear, logical manner.
+- Typography: Choosing fonts that are readable and convey the right tone.
+- Color Scheme: Using colors that enhance the user experience and brand identity.
+- Navigation: Ensuring users can easily find what they’re looking for.
+- Responsiveness: Making sure the site looks good on all devices.
+
+Web Design Trends:
+1. Dark Mode: Many websites now offer dark mode to reduce eye strain and save battery life on devices.
+2. Minimalism: Clean, simple designs with plenty of white space to make content stand out.
+3. Micro-Interactions: Small animations or design elements that provide feedback to the user, enhancing the user experience.
+
+Target Audience Analysis:
+- Age: Typically between 18-35 years old.
+- Occupation: Students, young professionals, and tech-savvy individuals.
+- Interests: Interested in fashion, technology, and current trends.
+- Behavior: Frequently use social media, shop online, and value aesthetics and usability in websites.
+- Location: Urban areas with access to high-speed internet.
 
 #### 10. Conclusion
    - Recap of key points
